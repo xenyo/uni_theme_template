@@ -1,7 +1,7 @@
 {
-    "name": "xenyo/uni_module_template",
-    "description": "Drupal module template for Xenyo Uni Framework.",
-    "type": "drupal-module",
+    "name": "xenyo/uni_theme_template",
+    "description": "Drupal theme template for Xenyo Uni Framework.",
+    "type": "drupal-theme",
     "repositories": [
         {
             "type": "composer",
