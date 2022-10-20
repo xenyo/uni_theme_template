@@ -1,6 +1,7 @@
 name: Uni Theme Template
 description: Drupal theme template Xenyo Uni Frameworks sites.
 type: theme
+hidden: true
 core_version_requirement: ^9 || ^10
 base theme: false
 asset_autoload: true
