@@ -10,3 +10,6 @@ regions:
   content: Content
   footer: Footer
   fixed: Fixed
+components:
+  namespaces:
+    components: components
